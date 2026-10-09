@@ -1,0 +1,6 @@
+info:
+  name: get 13
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/payments-e2e-9/13

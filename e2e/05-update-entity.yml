@@ -1,0 +1,6 @@
+info:
+  name: update 5
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/payments-e2e-9/5

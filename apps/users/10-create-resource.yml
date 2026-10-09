@@ -1,0 +1,6 @@
+info:
+  name: create 10
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/payments-users-2/10
